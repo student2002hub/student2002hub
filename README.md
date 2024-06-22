@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Lav Choudhary<br>🌎A developer based in India<br>👯 I'm open to collaborating on interesting projects<br>🌱 I’m currently learning DSA in c++ language<br>💬 You can contact me at: lclavchoudhary1123@gmail.com<br>
+I'm Lav Choudhary<br>🌎A developer based in India<br>👯 I'm open to collaborating on interesting projects<br>🌱 DSA in C++ programming language<br>💬 You can contact me at: lclavchoudhary1123@gmail.com<br>
 
 
 ## 🌐 Socials:
